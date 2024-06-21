@@ -1,23 +1,82 @@
 /****** Global Styles ******/
 
 body {
-    
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 20px;
+    color: #5e5d5e;
 }
 
+h1,
+h2,
+h3 {
+    font-family: "Lora", serif;
+}
 
+h1 {
+    font-size: 30px;
+}
 
+h2 {
+    font-size: 36px;
+}
 
+h3 {
+    font-size: 24px;
+    line-height: 36px;
+}
 
+p {
+    line-height: 40px;
+}
+
+.content-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
 
 
 /****** Header Styles ******/
 
+header {
+    background-color: #f9efef;
+}
 
+header h1 {
+    color: #7b7e54;
+    width: 300px;
+    float: left;
+    margin: 0;
+    padding: 65px 0 65px 25px;
+}
 
+header nav {
+    width: 800px;
+    float: right;
+    padding: 75px 0;
+}
 
+header nav ul {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
 
+header nav ul li {
+    display: inline-block;
+    font-size: 18px;
+    padding: 0 25px 0 55px;
+    text-transform: uppercase;
+}
 
+header nav ul li a {
+    color: #727172;
+}
 
+header h2 {
+    font-size: 72px;
+    color: #817f80;
+}
 
 
 /****** About Styles ******/
