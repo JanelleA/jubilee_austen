@@ -88,13 +88,20 @@ header h2 {
 
 /****** About Styles ******/
 
-#about {
-    clear: both;
+#about .content-wrapper {
+    padding: 80px 0;
+    
 }
 
+#about h2 {
+    padding-left: 50px;
+}
 
-
-
+#about p {
+    float: left;
+    width: 500px;
+    padding: 0 50px;
+}
 
 
 
