@@ -67,7 +67,7 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     font-size: 18px;
-    padding-left: 80px;
+    padding-left: 50px;
     text-transform: uppercase;
 }
 
@@ -204,4 +204,11 @@ header h2 {
 #contact ul img {
     padding-right: 40px;
 }
+
+
+/****** Projects Page Styles ******/
+
+/****** Projects Page Header Styles ******/
+
+
 
